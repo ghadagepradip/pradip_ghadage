@@ -37,10 +37,12 @@
 .main{
 	/*background-color: yellow;*/
 	width: 90vw;
+	
 }	
 
 .container{
 	display: flex;
+	
 
 }
 
@@ -61,27 +63,27 @@
 	 font-family: 'Source Code Pro', 'monospace';	
 }
 .hello{
-	font-size: 3em;
+	font-size: 5vh;
 }
 
 .name{
-	font-size: 3em;
+	font-size: 5vh;
 	font-weight: bold;
 	font-family:'Hind Siliguri', 'sans-serif';
 }
 
 .about{
-	font-size: 2.5em;
+	font-size: 4vh;
 }
 
 .moreabout{
-	font-size: 2em;
+	font-size: 3vh;
 	margin-top: 23px;
 	font-family:'Hind Siliguri', 'sans-serif';
 
 }
 .buttons{
-	margin-top: 2.2em;
+	margin-top: 4vh;
 	font-size: 16px;
 }
 .btn{
@@ -89,7 +91,7 @@
     border-radius: 22px;
     color: white;
     background-color: dodgerblue;
-    font-size: 1.5em;
+    font-size: 15px;
     margin: 0 3px;
     cursor: pointer;
 }
